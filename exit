@@ -1,0 +1,35 @@
+* [33mcommit 02979fe0f6a51b4e929825c2da6bffd4a3c94c75[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: farhanafriansyah <farh20127ti@student.nurulfikri.ac.id>
+[31m|[m Date:   Wed Mar 9 12:13:29 2022 +0700
+[31m|[m 
+[31m|[m     Add some text for third line
+[31m|[m   
+[31m|[m * [33mcommit 2fc5abdd699828151801721b0219b8250f71fbdb[m[33m ([m[1;32mnew_branch[m[33m)[m
+[31m|[m[31m/[m  Author: farhanafriansyah <farh20127ti@student.nurulfikri.ac.id>
+[31m|[m   Date:   Wed Mar 9 12:11:31 2022 +0700
+[31m|[m   
+[31m|[m       Add some text to index.html - new branch
+[31m|[m 
+* [33mcommit 79a279779224523ca7c41e6a9382eb442137ca89[m
+[32m|[m Author: farhanafriansyah <farh20127ti@student.nurulfikri.ac.id>
+[32m|[m Date:   Wed Mar 9 12:06:20 2022 +0700
+[32m|[m 
+[32m|[m     Checkout HEAD~2 index.html
+[32m|[m 
+* [33mcommit 9932e92fc0c61f45c2fde93264e95407b4eafd66[m
+[32m|[m Author: farhanafriansyah <farh20127ti@student.nurulfikri.ac.id>
+[32m|[m Date:   Wed Mar 9 11:59:23 2022 +0700
+[32m|[m 
+[32m|[m     Add some text for third line
+[32m|[m 
+* [33mcommit ce7aa3f429dd880aa2ed12752356b38774f30dd1[m
+[32m|[m Author: farhanafriansyah <farh20127ti@student.nurulfikri.ac.id>
+[32m|[m Date:   Wed Mar 9 11:55:11 2022 +0700
+[32m|[m 
+[32m|[m     Add some text for second line
+[32m|[m 
+* [33mcommit 9552674fe7ae62a5368266a4e6cef5e3235c4865[m
+  Author: farhanafriansyah <farh20127ti@student.nurulfikri.ac.id>
+  Date:   Wed Mar 9 11:39:34 2022 +0700
+  
+      Initial commit
